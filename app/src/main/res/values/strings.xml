@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="load_puzzle">Load Puzzle</string>
+    <string name="reset">Reset</string>
+    <string name="enter_editing_mode">Enter Editing Mode</string>
+    <string name="clear">Clear</string>
+    <string name="enter_playing_mode">Enter Playing Mode</string>
+    <string name="save_puzzle">Save Puzzle</string>
+    <string name="OK">OK</string>
+    <string name="now_in_editing_mode">Now In Editing Mode</string>
+    <string name="now_in_playing_mode">Now In Playing Mode</string>
+    <string name="must_solve_it">In order to save this puzzle, it must be solved.</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/clear"
+        android:title="@string/clear" />
+    <item
+        android:id="@+id/save_puzzle"
+        android:title="@string/save_puzzle" />
+    <item
+        android:id="@+id/enter_playing_mode"
+        android:title="@string/enter_playing_mode" />
+</menu>
